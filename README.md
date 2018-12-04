@@ -1,4 +1,4 @@
 # grep-pdf-python
 Search string pattern in pdf files using python
 
-python search.py
+Command Usage: python3 search.py <xyz.pdf> <pattern>
